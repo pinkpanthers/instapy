@@ -20,8 +20,8 @@ from instapy import InstaPy
 from instapy import smart_run
 
 # login credentials
-insta_username = 'username'
-insta_password = 'USERPASSWORD'
+insta_username = ''
+insta_password = ''
 
 # list of users to follow their followers
 user_list = ['gymshark', 'vqfit', 'thegainz', 'bodybuildingcom', 'therock']
